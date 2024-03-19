@@ -1,4 +1,4 @@
-# IrisMejuto
+# Iris Mejuto
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Siri0cra/irismejuto/blob/main/Banner%20Github.png" width="800"/>
 </div>
