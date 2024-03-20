@@ -59,7 +59,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 ### **Google Sheets**
 
-👉 [💰Financial Tracking Template](https://docs.google.com/spreadsheets/d/1T-aYq2YM5DKgqwISwsxOsF3e9AemeWKc4MZ4YVH0Fvo/edit?usp=sharing)
+👉 [💰Financial Tracking Template]([https://docs.google.com/spreadsheets/d/1T-aYq2YM5DKgqwISwsxOsF3e9AemeWKc4MZ4YVH0Fvo/edit?usp=sharing](https://github.com/IrisMejuto/-Financial-Tracking-)
 
 
 ### **Portfolio Bootcamp Cambridge Spark**
