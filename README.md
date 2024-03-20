@@ -27,7 +27,7 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: About me :
+## :woman_technologist: About me :
 
 Passionate about technology and business, I am enjoying a career transition into Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -39,7 +39,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 ---
 
-### ⚒️ Languages and Tools :
+## ⚒️ Languages and Tools :
 
 <div id="header" align="left">
   <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
@@ -49,7 +49,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 </div>
 
 
-### 📊 Projects :
+## 📊 Projects :
 
 
  ### **Power BI**
