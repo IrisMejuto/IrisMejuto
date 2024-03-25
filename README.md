@@ -56,6 +56,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Adventure Works](https://github.com/Siri0cra/Adventure-Works)
 
+👉 [Argentina Fuel Market Analysis](https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis.git)
+
 
 ### **Google Sheets**
 
@@ -65,5 +67,6 @@ My diverse work experience across various sectors has equipped me with a broad u
 ### **Portfolio Bootcamp Cambridge Spark**
  
 👉 [Portfolio Cambrigde Spark Bootcamp](https://github.com/IrisMejuto/Porfolio-Cambridge-Spark-Bootcamp/blob/main/Portfolio%20Iris%20Mejuto%20.pdf)
+
 
 ---
