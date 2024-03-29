@@ -58,6 +58,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Argentina Fuel Market Analysis](https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis.git)
 
+👉 [Marketing Funnel Olist](https://github.com/IrisMejuto/Olist-Funnel/blob/main/README.md)
+
 
 ### **Google Sheets**
 
