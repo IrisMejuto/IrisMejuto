@@ -60,6 +60,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Marketing Funnel Olist](https://github.com/IrisMejuto/Olist-Funnel/blob/main/README.md)
 
+👉 [Reporte RRHH SKU-DON](https://github.com/IrisMejuto/RRHH-SKU-DON/blob/main/README.md)
+
 
 ### **Google Sheets**
 
