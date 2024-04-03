@@ -62,6 +62,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Reporte RRHH SKU-DON](https://github.com/IrisMejuto/RRHH-SKU-DON/blob/main/README.md)
 
+👉 [Personal Finance Analysis](https://github.com/IrisMejuto/Personal-Finance-Analysis/tree/main)
+
 
 ### **Google Sheets**
 
