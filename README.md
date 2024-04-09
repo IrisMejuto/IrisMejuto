@@ -60,7 +60,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Marketing Funnel Olist](https://github.com/IrisMejuto/Olist-Marketing-Funnel)
 
-👉 [Reporte RRHH SKU-DON](https://github.com/IrisMejuto/RRHH-SKU-DON/blob/main/README.md)
+👉 [Reporte RRHH SKU-DON](https://github.com/IrisMejuto/Human-Resources-SKU-DON)
 
 👉 [Personal Finance Analysis](https://github.com/IrisMejuto/Personal-Finance-Analysis/tree/main)
 
@@ -72,7 +72,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 ### **Portfolio Bootcamp Cambridge Spark**
  
-👉 [Portfolio Cambrigde Spark Bootcamp](https://github.com/IrisMejuto/Porfolio-Cambridge-Spark-Bootcamp/blob/main/Portfolio%20Iris%20Mejuto%20.pdf)
+👉 [Portfolio Cambrigde Spark Bootcamp](https://github.com/IrisMejuto/Portfolio-Cambridge-Spark-Bootcamp/blob/main/PDF/Portfolio%20Iris%20Mejuto%20.pdf)
 
 
 ---
