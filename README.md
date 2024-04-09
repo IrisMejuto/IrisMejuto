@@ -91,3 +91,14 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 
 
+## Education & Qualifications
+
+| Date                | Academic institution             | Skills
+|  :---:  |  :---:   | :---:  | 
+| DEC 2023 - MAR 2024 | Cambridge Spark                  | Analysis of data (Excel, Power BI, Python, SQL) |
+| OCT 2023 - DEC 2023 | NamasData                        | Power BI |
+| NOV 2021 - SEP 2023 | Unicorn Project                  | Analysis of data (SQL, Power BI, Python) |
+| OCT 2021 - FEB 2022 | UNIR - The Internet University   | Complex Problem Solving |
+| SEP 2020 - JUL 2021 | The Power Business School        | The Power Digital Marketing Expert |
+| SEP 2012 - JUN 2019 | UNIOVI - Oviedo University       | Business and Marketing |
+| SEP 2011 - JUN 2012 | Certificate of Higher Education  |Commercial Management and Marketing |
