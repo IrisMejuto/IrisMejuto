@@ -39,17 +39,17 @@ My diverse work experience across various sectors has equipped me with a broad u
 ---
 
 ## ⭐ Key Skills:
-* Problem-solving 
-* Fast learning
-* Adaptability
-* Teamwork
-* Attention to Detail
-* Critical Thinking
-* Continuous learning
-* Speed and efficiency
-* Positive attitude
-* Data cleaning, transformation, modeling, and analysis
-* Data visualization
+- [x] Problem-solving 
+- [x] Fast learning
+- [x] Adaptability
+- [x] Teamwork
+- [x] Attention to Detail
+- [x] Critical Thinking
+- [x] Continuous learning
+- [x] Speed and efficiency
+- [x] Positive attitude
+- [x] Data cleaning, transformation, modeling, and analysis
+- [x] Data visualization
 
 ---
 
