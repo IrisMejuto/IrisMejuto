@@ -24,7 +24,6 @@
 </h1>
 
 
----
  <div id="header" align="left">
 
 ## :woman_technologist: About me :
@@ -39,6 +38,21 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 ---
 
+## ⭐ Key Skills:
+* Problem-solving 
+* Fast learning
+* Adaptability
+* Teamwork
+* Attention to Detail
+* Critical Thinking
+* Continuous learning
+* Speed and efficiency
+* Positive attitude
+* Data cleaning, transformation, modeling, and analysis
+* Data visualization
+
+---
+
 ## ⚒️ Languages and Tools :
 
 <div id="header" align="left">
@@ -48,6 +62,7 @@ My diverse work experience across various sectors has equipped me with a broad u
   <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </div>
 
+---
 
 ## 📊 Projects :
 
@@ -75,4 +90,4 @@ My diverse work experience across various sectors has equipped me with a broad u
 👉 [Portfolio Cambrigde Spark Bootcamp](https://github.com/IrisMejuto/Portfolio-Cambridge-Spark-Bootcamp/blob/main/PDF/Portfolio%20Iris%20Mejuto%20.pdf)
 
 
----
+
