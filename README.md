@@ -89,9 +89,9 @@ My diverse work experience across various sectors has equipped me with a broad u
  
 👉 [Portfolio Cambrigde Spark Bootcamp](https://github.com/IrisMejuto/Portfolio-Cambridge-Spark-Bootcamp/blob/main/PDF/Portfolio%20Iris%20Mejuto%20.pdf)
 
+---
 
-
-## Education & Qualifications
+## 👨‍🎓 Education & Qualifications
 
 | 📅 Date                | 👨‍🎓 Academic institution             | 🚀 Skills
 |  :---:  |  :---:   | :---:  | 
