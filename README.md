@@ -93,7 +93,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 ## Education & Qualifications
 
-| Date                | Academic institution             | Skills
+| 📅 Date                | 👨‍🎓 Academic institution             | 🚀 Skills
 |  :---:  |  :---:   | :---:  | 
 | DEC 2023 - MAR 2024 | Cambridge Spark                  | Analysis of data (Excel, Power BI, Python, SQL) |
 | OCT 2023 - DEC 2023 | NamasData                        | Power BI |
