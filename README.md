@@ -79,7 +79,10 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Personal Finance Analysis](https://github.com/IrisMejuto/Personal-Finance-Analysis/tree/main)
 
-👉 [The-Movie-Database-TMDB](https://github.com/IrisMejuto/-The-Movie-Database-TMDB-)
+👉 [The-Movie-Database-TMDB](https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/README.md)
+
+👉 [HR Data Analysis](https://github.com/IrisMejuto/HR-Data-Analysis/tree/main)
+
 
 ### **Google Sheets**
 
