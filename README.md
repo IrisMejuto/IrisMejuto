@@ -86,7 +86,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 <h3 id="google-sheets">Google Sheets</h3>
 
-<h3 id="microsoft-excel">Microsoft Excel</h3>
+<h3 id="microsoft-excel">Portfolio Bootcamp Cambridge Spark</h3>
 
 <h3 id="python">Python</h3>
 
