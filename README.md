@@ -63,20 +63,29 @@ My diverse work experience across various sectors has equipped me with a broad u
 </div>
 
 
-<div id="header" align="left">
-  <a href="#power_bi_section">
-    <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
-  <a href="#google_sheets_section">
-    <img decoding="async" src="https://img.shields.io/badge/Google_Sheets-00AC47?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/>
-  </a>
-  <a href="#microsoft_excel_section">
-    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
-  <a href="#python_section">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-</div>
+<h3 id="power_bi_section">### **Power BI**</h3>
+<h3 id="google_sheets_section">### **Google Sheets**</h3>
+<h3 id="microsoft_excel_section">### **Microsoft Excel**</h3>
+<h3 id="python_section">### **Python**</h3>
+
+<script>
+    // Obtener todos los enlaces dentro del div #header
+    const links = document.querySelectorAll('#header a');
+
+    // Iterar sobre cada enlace
+    links.forEach(link => {
+        // Agregar un event listener para cada enlace
+        link.addEventListener('click', function(e) {
+            e.preventDefault(); // Evitar el comportamiento predeterminado del enlace
+            // Obtener el id de la sección a la que se desplazará
+            const targetId = this.getAttribute('href').substring(1); // Eliminar el símbolo '#' del href
+            // Desplazarse suavemente hacia la sección objetivo
+            document.getElementById(targetId).scrollIntoView({
+                behavior: 'smooth' // Desplazamiento suave
+            });
+        });
+    });
+</script>
 
 
 
