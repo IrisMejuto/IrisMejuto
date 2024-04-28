@@ -62,6 +62,20 @@ My diverse work experience across various sectors has equipped me with a broad u
   <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </div>
 
+<script>
+    document.querySelector('a[href="#power_bi_section"]').addEventListener('click', function(e) {
+        e.preventDefault(); // Evitar el comportamiento predeterminado del enlace
+        document.querySelector('#power_bi_section').scrollIntoView({
+            behavior: 'smooth' // Desplazamiento suave
+        });
+    });
+</script>
+
+<Secciones h3 -->
+<h3 id="power_bi_section">### **Power BI**</h3>
+<h3 id="google_sheets_section">### **Google Sheets**</h3>
+<h3 id="microsoft_excel_section">### **Portfolio Bootcamp Cambridge Spark**</h3>
+<h3 id="python_section">### **Python**</h3>
 ---
 
 ## 📊 Projects :
