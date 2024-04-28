@@ -62,6 +62,23 @@ My diverse work experience across various sectors has equipped me with a broad u
   <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </div>
 
+
+<div id="header" align="left">
+  <a href="#power_bi_section">
+    <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+  <a href="#google_sheets_section">
+    <img decoding="async" src="https://img.shields.io/badge/Google_Sheets-00AC47?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/>
+  </a>
+  <a href="#microsoft_excel_section">
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+  <a href="#python_section">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+</div>
+
+<Codigo que convierte en botones-->
 <script>
     document.querySelector('a[href="#power_bi_section"]').addEventListener('click', function(e) {
         e.preventDefault(); // Evitar el comportamiento predeterminado del enlace
