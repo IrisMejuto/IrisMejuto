@@ -78,22 +78,30 @@ My diverse work experience across various sectors has equipped me with a broad u
   </a>
 </div>
 
-<Codigo que convierte en botones-->
+<h3 id="power_bi_section">### **Power BI**</h3>
+<h3 id="google_sheets_section">### **Google Sheets**</h3>
+<h3 id="microsoft_excel_section">### **Microsoft Excel**</h3>
+<h3 id="python_section">### **Python**</h3>
+
 <script>
-    document.querySelector('a[href="#power_bi_section"]').addEventListener('click', function(e) {
-        e.preventDefault(); // Evitar el comportamiento predeterminado del enlace
-        document.querySelector('#power_bi_section').scrollIntoView({
-            behavior: 'smooth' // Desplazamiento suave
+    // Obtener todos los enlaces dentro del div #header
+    const links = document.querySelectorAll('#header a');
+
+    // Iterar sobre cada enlace
+    links.forEach(link => {
+        // Agregar un event listener para cada enlace
+        link.addEventListener('click', function(e) {
+            e.preventDefault(); // Evitar el comportamiento predeterminado del enlace
+            // Obtener el id de la sección a la que se desplazará
+            const targetId = this.getAttribute('href').substring(1); // Eliminar el símbolo '#' del href
+            // Desplazarse suavemente hacia la sección objetivo
+            document.getElementById(targetId).scrollIntoView({
+                behavior: 'smooth' // Desplazamiento suave
+            });
         });
     });
 </script>
 
-<Secciones h3 -->
-<h3 id="power_bi_section">### **Power BI**</h3>
-<h3 id="google_sheets_section">### **Google Sheets**</h3>
-<h3 id="microsoft_excel_section">### **Portfolio Bootcamp Cambridge Spark**</h3>
-<h3 id="python_section">### **Python**</h3>
----
 
 ## 📊 Projects :
 
