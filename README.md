@@ -82,19 +82,14 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 </div>
 
-<h3 id="power-bi">Power BI</h3>
 
-<h3 id="google-sheets">Google Sheets</h3>
 
-<h3 id="microsoft-excel">Portfolio Bootcamp Cambridge Spark</h3>
-
-<h3 id="python">Python</h3>
 
 
 ## 📊 Projects :
 
 
- ### **Power BI**
+<h3 id="power-bi">Power BI</h3>
 
 👉 [Adventure Works](https://github.com/Siri0cra/Adventure-Works)
 
@@ -111,19 +106,19 @@ My diverse work experience across various sectors has equipped me with a broad u
 👉 [HR Data Analysis](https://github.com/IrisMejuto/HR-Data-Analysis/tree/main)
 
 
-### **Python**
+<h3 id="python">Python</h3>
 
 👉 [Web-Scraping-of-World-Atlas](https://github.com/IrisMejuto/Web-Scraping-of-World-Atlas/blob/main/README.md)
 
 👉 [Global-YouTube-Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
 
 
-### **Google Sheets**
+<h3 id="google-sheets">Google Sheets</h3>
 
 👉 [💰Financial Tracking Template](https://github.com/IrisMejuto/-Financial-Tracking-)
 
 
-### **Portfolio Bootcamp Cambridge Spark**
+<h3 id="microsoft-excel">Portfolio Bootcamp Cambridge Spark</h3>
  
 👉 [Portfolio Cambrigde Spark Bootcamp](https://github.com/IrisMejuto/Portfolio-Cambridge-Spark-Bootcamp/blob/main/PDF/Portfolio%20Iris%20Mejuto%20.pdf)
 
