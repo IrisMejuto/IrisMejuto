@@ -88,6 +88,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Web-Scraping-of-World-Atlas](https://github.com/IrisMejuto/Web-Scraping-of-World-Atlas/blob/main/README.md)
 
+👉 [Global-YouTube-Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
+
 
 ### **Google Sheets**
 
