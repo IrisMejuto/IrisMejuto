@@ -84,6 +84,11 @@ My diverse work experience across various sectors has equipped me with a broad u
 👉 [HR Data Analysis](https://github.com/IrisMejuto/HR-Data-Analysis/tree/main)
 
 
+### **Python**
+
+👉 [Web-Scraping-of-World-Atlas](https://github.com/IrisMejuto/Web-Scraping-of-World-Atlas/blob/main/README.md)
+
+
 ### **Google Sheets**
 
 👉 [💰Financial Tracking Template](https://github.com/IrisMejuto/-Financial-Tracking-)
