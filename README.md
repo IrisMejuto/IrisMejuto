@@ -108,6 +108,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 | 📅 Date                | 👨‍🎓 Academic institution             | 🚀 Skills
 |  :---:  |  :---:   | :---:  | 
+| MAY 2024 - Current  | Pildoras del Conocimiento        | Master in Strategic Complexity
 | APR 2024 - MAY 2024 | Udemy                            | Data Analysis and Business Intelligence |
 | DEC 2023 - MAR 2024 | Cambridge Spark                  | Analysis of data (Excel, Power BI, Python, SQL) |
 | OCT 2023 - DEC 2023 | NamasData                        | Power BI |
