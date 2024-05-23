@@ -83,6 +83,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [HR Data Analysis](https://github.com/IrisMejuto/HR-Data-Analysis/tree/main)
 
+👉 [Technical Support Analysis](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/README.md)
+
 
 <h3 id="python">Python</h3>
 
@@ -106,6 +108,7 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 | 📅 Date                | 👨‍🎓 Academic institution             | 🚀 Skills
 |  :---:  |  :---:   | :---:  | 
+| APR 2024 - MAY 2024 | Udemy                            | Data Analysis and Business Intelligence |
 | DEC 2023 - MAR 2024 | Cambridge Spark                  | Analysis of data (Excel, Power BI, Python, SQL) |
 | OCT 2023 - DEC 2023 | NamasData                        | Power BI |
 | NOV 2021 - SEP 2023 | Unicorn Project                  | Analysis of data (SQL, Power BI, Python) |
