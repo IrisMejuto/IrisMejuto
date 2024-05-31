@@ -59,7 +59,8 @@ My diverse work experience across various sectors has equipped me with a broad u
   <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   <img decoding="async" src="https://img.shields.io/badge/Google_Sheets-00AC47?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/>
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img decoding="async" src="https://img.shields.io/badge/SQL-006EC0?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/>
+  
 </div>
 
 
