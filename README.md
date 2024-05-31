@@ -92,6 +92,9 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Global-YouTube-Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
 
+<h3 id="google-sheets">SQL</h3>
+
+👉 [E-commerce-Financial-Web-Traffic-Analysis](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis)
 
 <h3 id="google-sheets">Google Sheets</h3>
 
