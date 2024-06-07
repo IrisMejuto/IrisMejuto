@@ -88,6 +88,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Technical Support Analysis](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/README.md)
 
+👉 [Wordl Roasters Review Analysis](https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/README.md)
+
 
 <h3 id="python">Python</h3>
 
