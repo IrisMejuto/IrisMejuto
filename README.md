@@ -90,6 +90,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Wordl Roasters Review Analysis](https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/README.md)
 
+👉 [CRM & Sales Pipeline Analysis](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis)
+
 
 <h3 id="python">Python</h3>
 
