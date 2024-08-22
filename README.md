@@ -92,6 +92,8 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [CRM & Sales Pipeline Analysis](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis)
 
+👉 [Financial Analysis](https://github.com/IrisMejuto/Financial-Analysis-/blob/main/README.md)
+
 
 <h3 id="python">Python</h3>
 
