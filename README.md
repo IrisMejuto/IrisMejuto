@@ -72,6 +72,18 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 <h3 id="power-bi">Power BI</h3>
 
+👉 [Financial Analysis](https://github.com/IrisMejuto/Financial-Analysis-/blob/main/README.md)
+
+👉 [CRM & Sales Pipeline Analysis](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis)
+
+👉 [Wordl Roasters Review Analysis](https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/README.md)
+
+👉 [Technical Support Analysis](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/README.md)
+
+👉 [HR Data Analysis](https://github.com/IrisMejuto/HR-Data-Analysis/tree/main)
+
+👉 [The-Movie-Database-TMDB](https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/README.md)
+
 👉 [Adventure Works](https://github.com/Siri0cra/Adventure-Works)
 
 👉 [Argentina Fuel Market Analysis](https://github.com/IrisMejuto/Argentina-Fuel-Market-Analysis.git)
@@ -82,17 +94,17 @@ My diverse work experience across various sectors has equipped me with a broad u
 
 👉 [Personal Finance Analysis](https://github.com/IrisMejuto/Personal-Finance-Analysis/tree/main)
 
-👉 [The-Movie-Database-TMDB](https://github.com/IrisMejuto/The-Movie-Database-TMDB/blob/main/README.md)
 
-👉 [HR Data Analysis](https://github.com/IrisMejuto/HR-Data-Analysis/tree/main)
 
-👉 [Technical Support Analysis](https://github.com/IrisMejuto/Technical-Support-Analysis/blob/main/README.md)
 
-👉 [Wordl Roasters Review Analysis](https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/README.md)
 
-👉 [CRM & Sales Pipeline Analysis](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis)
 
-👉 [Financial Analysis](https://github.com/IrisMejuto/Financial-Analysis-/blob/main/README.md)
+
+
+
+
+
+
 
 
 <h3 id="python">Python</h3>
