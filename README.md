@@ -56,12 +56,13 @@ My diverse work experience across various sectors has equipped me with a broad u
 ## ⚒️ Languages and Tools :
 
 <div id="header" align="left">
-  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img decoding="async" src="https://img.shields.io/badge/MySQL-006EC0?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/Power_BI-ECA000?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  <img decoding="async" src="https://img.shields.io/badge/Python-3B77A7?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img decoding="async" src="https://img.shields.io/badge/MySQL-42759C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img decoding="async" src="https://img.shields.io/badge/Google_Sheets-00AC47?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/>
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  
+  <img src="https://img.shields.io/badge/Airtable-39CAFF?style=for-the-badge&logo=airtable&logoColor=white" alt="airtable"/>  
+  <img decoding="async" src="https://img.shields.io/badge/Figma-F76D5E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
   
 </div>
 
