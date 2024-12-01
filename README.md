@@ -12,10 +12,7 @@
   <a href="https://www.linkedin.com/in/irismejutocrego/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-bottom: -4px;"/>
   </a>
-  <!-- Website Badge -->
-  <a href="https://www.irismejuto.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Website-%2301605C?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge" style="margin-bottom: -4px;"/>
-  </a>
+  
 </p>
 
 <h1>
