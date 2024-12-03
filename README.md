@@ -25,12 +25,15 @@
 
 ## :woman_technologist: About me :
 
-Passionate about technology and business, I am enjoying a career transition into Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**Passionate about technology and business, I am enjoying a career transition into Data Analytics** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🔍 I'm a curious person with lots of energy ⚡ and a strong passion for continuous learning, especially in business and technology 📊. 
-During my studies in marketing 📈, I realized how much I enjoy analyzing problems. This interest led me to take courses aimed at understanding and resolving complex issues. It was after this period that I discovered data analysis 📊, which quickly became my new fascination. Ever since, I've been dedicated to learning the necessary technical skills for data analysis.
+🔍 I’m naturally curious and love learning, especially when it comes to solving problems with data. 
+During my marketing studies  I realized how much I enjoy analyzing challenges and finding creative solutions. That curiosity led me to discover data analysis and I was hooked. 
+Since then, I have been focused on building the skills to turn data into meaningful insights.
 
-My diverse work experience across various sectors has equipped me with a broad understanding, allowing me to see the bigger picture of how businesses operate and the systems that support them 🌐. I'm really looking forward to the chance to use my knowledge in a data analyst role, where I can continue to learn and develop my skills in this exciting field 💼
+🌐 My experience across different industries has given me a big picture perspective on how businesses work. I can connect the dots between strategy and operations, which makes working with data even more rewarding.
+
+💼 I’m excited to grow as a data analyst and bring my energy, curiosity, and fresh perspective to the table. 
 
 
 ---
