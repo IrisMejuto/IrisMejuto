@@ -56,14 +56,16 @@ Since then, I have been focused on building the skills to turn data into meaning
 ## ⚒️ Languages and Tools :
 
 <div id="header" align="left">
-  <img decoding="async" src="https://img.shields.io/badge/Power_BI-ECA000?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   <img decoding="async" src="https://img.shields.io/badge/Python-3B77A7?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img decoding="async" src="https://img.shields.io/badge/Power_BI-ECA000?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  <img decoding="async" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="60" height="28"/>
   <img decoding="async" src="https://img.shields.io/badge/MySQL-42759C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="bigquery"/>
+  <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   <img decoding="async" src="https://img.shields.io/badge/Google_Sheets-00AC47?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/>
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   <img src="https://img.shields.io/badge/Airtable-39CAFF?style=for-the-badge&logo=airtable&logoColor=white" alt="airtable"/>  
   <img decoding="async" src="https://img.shields.io/badge/Figma-F76D5E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-  <img decoding="async" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="60" height="28"/>
 </div>
 
 
