@@ -103,13 +103,13 @@ Since then, I have been focused on building the skills to turn data into meaning
 
 <h3 id="python">Python</h3>
 
-👉 [Web-Scraping-of-World-Atlas](https://github.com/IrisMejuto/Web-Scraping-of-World-Atlas/blob/main/README.md)
+👉 [Web Scraping of World Atlas](https://github.com/IrisMejuto/Web-Scraping-of-World-Atlas/blob/main/README.md)
 
-👉 [Global-YouTube-Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
+👉 [Global YouTube Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
 
 <h3 id="SQL">SQL</h3>
 
-👉 [E-commerce-Financial-Web-Traffic-Analysis](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis)
+👉 [E-commerce Financial Web Traffic Analysis](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis)
 
 👉 [Practice SQL and DW](https://github.com/IrisMejuto/Practice-SQL-and-DW/blob/main/README.md)
 
