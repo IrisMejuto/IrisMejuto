@@ -123,7 +123,6 @@ Since then, I have been focused on building the skills to turn data into meaning
 
 <h3 id="microsoft-excel">Portfolio Bootcamp Cambridge Spark</h3>
  
-👉 [Portfolio Cambrigde Spark Bootcamp](https://github.com/IrisMejuto/Portfolio-Cambridge-Spark-Bootcamp/blob/main/PDF/Portfolio%20Iris%20Mejuto%20.pdf)
 
 ---
 
