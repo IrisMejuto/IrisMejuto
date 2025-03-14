@@ -66,6 +66,14 @@ Since then, I have been focused on building the skills to turn data into meaning
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   <img src="https://img.shields.io/badge/Airtable-39CAFF?style=for-the-badge&logo=airtable&logoColor=white" alt="airtable"/>  
   <img decoding="async" src="https://img.shields.io/badge/Figma-F76D5E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  <img decoding="async" src="https://img.shields.io/badge/MongoDB-00A246?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img decoding="async" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+
+
+
+
+
+
 </div>
 
 
