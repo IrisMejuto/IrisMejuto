@@ -129,9 +129,9 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
 👉 [💰Financial Track Interface](https://airtable.com/invite/l?inviteId=inv0TlyGracg9qf1l&inviteToken=253674d76a8cf38a57cb57eb87c462673c571b0fcc694f833898541bdced6a75&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
-<h3 id="R">R</h3>
-👉 [Airbnb](https://github.com/IrisMejuto/Big-Data-Machine-Learning-and-IA/blob/main/Stadistics_101/Iris_Mejuto_AIRBNB.qmd)
----
+<h3>R</h3>
+
+👉 [Airbnb](Stadistics_101/Iris_Mejuto_AIRBNB.qmd)
 
 ## 👨‍🎓 Education & Qualifications
 
