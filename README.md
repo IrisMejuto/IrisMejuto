@@ -25,15 +25,15 @@
 
 ## :woman_technologist: About me :
 
-**Passionate about technology and business, I am enjoying a career transition into Data Analytics** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**Passionate about technology and business** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🔍 I’m naturally curious and love learning, especially when it comes to solving problems with data. 
-During my marketing studies  I realized how much I enjoy analyzing challenges and finding creative solutions. That curiosity led me to discover data analysis and I was hooked. 
-Since then, I have been focused on building the skills to turn data into meaningful insights.
+👋 Hi! I'm Iris, a data analyst with experience in turning complex data into useful information to help businesses make better decisions and improve operational efficiency.
 
-🌐 My experience across different industries has given me a big picture perspective on how businesses work. I can connect the dots between strategy and operations, which makes working with data even more rewarding.
+I’m a curious person, always looking to understand the "why" behind things. My thinking is analytical and detail-oriented, which allows me to approach problems from different perspectives. I’m enthusiastic and always eager to learn, which helps me constantly improve in everything I do.
 
-💼 I’m excited to grow as a data analyst and bring my energy, curiosity, and fresh perspective to the table. 
+I strongly believe in continuous learning, which is why I’m currently expanding my knowledge in Big Data, Machine Learning, and Artificial Intelligence. This approach allows me to deepen my understanding of the entire data lifecycle, from storage to analysis and generating insights that help businesses make data-driven strategic decisions.
+
+I’m looking to join a dynamic team where I can continue learning, growing professionally, and contribute with my curiosity and dedication. If you’re looking for someone with an analytical approach, motivated by learning, and committed to adding value through data, I’d be happy to connect.
 
 
 ---
