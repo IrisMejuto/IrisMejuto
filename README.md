@@ -103,8 +103,11 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 👉 [Personal Finance Analysis](https://github.com/IrisMejuto/Personal-Finance-Analysis/tree/main)
 
 
+<h3 id="SQL">SQL</h3>
 
+👉 [E-commerce Financial Web Traffic Analysis](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis)
 
+👉 [Practice SQL and DW](https://github.com/IrisMejuto/Practice-SQL-and-DW/blob/main/README.md)
 
 <h3 id="python">Python</h3>
 
@@ -112,11 +115,9 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
 👉 [Global YouTube Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
 
-<h3 id="SQL">SQL</h3>
+<h3 id="Google Cloud">Data Arquitecture </h3>
 
-👉 [E-commerce Financial Web Traffic Analysis](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis)
-
-👉 [Practice SQL and DW](https://github.com/IrisMejuto/Practice-SQL-and-DW/blob/main/README.md)
+ 👉 [Connection Hadoop with ElasticSearch and Kibana](https://github.com/IrisMejuto/Data-Arquitecture/blob/main/README.md)
 
 <h3 id="google-sheets">Google Sheets</h3>
 
@@ -126,10 +127,7 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
 👉 [💰Financial Track Interface](https://airtable.com/invite/l?inviteId=inv0TlyGracg9qf1l&inviteToken=253674d76a8cf38a57cb57eb87c462673c571b0fcc694f833898541bdced6a75&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
-<h3 id="Google Cloud">Data Arquitecture </h3> <h5> #GoogleCloud #Hadoop #ElasticSearch #Kibana </h5>
 
-
- 👉 [Connection Hadoop with ElasticSearch and Kibana](https://github.com/IrisMejuto/Data-Arquitecture/blob/main/README.md)
 
 ---
 
