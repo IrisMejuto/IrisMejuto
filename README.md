@@ -69,6 +69,9 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
   <img decoding="async" src="https://img.shields.io/badge/MongoDB-00A246?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img decoding="async" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img decoding="async" src="https://img.shields.io/badge/Apache%20Hadoop-63C6F8?style=for-the-badge&logo=apache-hadoop&logoColor=ffffff" alt="Hadoop"/>
+  <img decoding="async" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="scala"/>
+  <img decoding="async" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
+
 
 
 </div>
@@ -121,6 +124,10 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
  👉 [Connection Hadoop with ElasticSearch and Kibana](https://github.com/IrisMejuto/Data-Arquitecture/blob/main/README.md)
 
+<h3 id="Google Cloud"> Data Processing with Scala</h3>
+
+ 👉 [Scala & Spark](https://github.com/IrisMejuto/Data-Processing-Scala.git)
+
 <h3 id="google-sheets">Google Sheets</h3>
 
 👉 [💰Financial Tracking Template](https://github.com/IrisMejuto/-Financial-Tracking-)
@@ -132,6 +139,8 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 <h3>R</h3>
 
 👉 [Airbnb](Stadistics_101/Iris_Mejuto_AIRBNB.qmd)
+
+
 
 ## 👨‍🎓 Education & Qualifications
 
