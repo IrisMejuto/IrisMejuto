@@ -80,13 +80,27 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
 ## 📊 Projects :
 
-<h3 id="python">Deep Learning</h3>
+<h3 id="python">Python</h3>
+<h4 id="python">Deep Learning</h4>
 
 👉 [Tourist POI Engagement Prediction](https://github.com/IrisMejuto/deep_learning)
 
-<h3 id="Python">Machine Learning</h3>
+<h4 id="Python">Machine Learning</h4>
 
 👉 [Airbnb Price Prediction](https://github.com/IrisMejuto/Machine-Learning)
+
+<h4 id="python">Web Scraping</h4>
+
+👉 [Web Scraping of World Atlas](https://github.com/IrisMejuto/Web-Scraping-of-World-Atlas/blob/main/README.md)
+
+<h4 id="python">Data Analysis</h4>
+
+👉 [Global YouTube Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
+
+<h4 id="python">Linear Regression</h4>
+
+👉 [Linear regression and gradient descent](https://github.com/IrisMejuto/Big-Data-Machine-Learning-and-IA/blob/main/Maths_101/Iris_Mejuto_Algebra.ipynb)
+
 
 <h3 id="power-bi">Power BI</h3>
 
@@ -119,13 +133,6 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
 👉 [Practice SQL and DW](https://github.com/IrisMejuto/Practice-SQL-and-DW/blob/main/README.md)
 
-<h3 id="python">Python</h3>
-
-👉 [Web Scraping of World Atlas](https://github.com/IrisMejuto/Web-Scraping-of-World-Atlas/blob/main/README.md)
-
-👉 [Global YouTube Statistics](https://github.com/IrisMejuto/Global-YouTube-Statistics/tree/main)
-
-👉 [Linear regression and gradient descent](https://github.com/IrisMejuto/Big-Data-Machine-Learning-and-IA/blob/main/Maths_101/Iris_Mejuto_Algebra.ipynb)
 
 <h3 id="Google Cloud">Data Arquitecture </h3>
 
