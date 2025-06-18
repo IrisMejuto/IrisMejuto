@@ -80,6 +80,13 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
 ## 📊 Projects :
 
+<h3 id="python">Deep Learning</h3>
+
+👉 [Tourist POI Engagement Prediction](https://github.com/IrisMejuto/deep_learning)
+
+<h3 id="Python">Machine Learning</h3>
+
+👉 [Airbnb Price Prediction](https://github.com/IrisMejuto/Machine-Learning)
 
 <h3 id="power-bi">Power BI</h3>
 
