@@ -85,6 +85,10 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 
 👉 [Tourist POI Engagement Prediction](https://github.com/IrisMejuto/deep_learning)
 
+<h4 id="python">NLP</h4>
+
+👉 [Product Review Sentiment Analysis](https://github.com/IrisMejuto/NLP)
+
 <h4 id="Python">Machine Learning</h4>
 
 👉 [Airbnb Price Prediction](https://github.com/IrisMejuto/Machine-Learning)
