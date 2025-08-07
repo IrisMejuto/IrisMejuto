@@ -1,6 +1,6 @@
 # Iris Mejuto
 <div id="header" align="center">
-  <img decoding="async" src="https://raw.githubusercontent.com/IrisMejuto/IrisMejuto/main/Git%20hub%20cover.png" width="1200"/>
+  <img decoding="async" src="" width="1000" height="300"/>
   
 </div>
 
