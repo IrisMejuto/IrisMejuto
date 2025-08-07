@@ -4,6 +4,7 @@
   
 </div>
 
+
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=irismejuto" alt=""/>
   
@@ -15,10 +16,12 @@
   
 </p>
 
-<h1>
-  Hello, I'm Iris. Pleased to meet you!
-  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+  </div>
+  
+<img decoding="async" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hello,%20I'm%20Iris.%20Pleased%20to%20meet%20you!&width=1000&height=110&"/>
+
+</div>
 
 
  <div id="header" align="left">
