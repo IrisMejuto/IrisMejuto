@@ -1,6 +1,21 @@
-# Iris Mejuto
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;"/>
+  Hello, I'm Iris. Pleased to meet you!
+</h1>
+
+<div 
+<p align="left">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/irismejutocrego/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-bottom: -4px;"/>
+  </a>
+  </div>
+
+  
+</p>
+
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/IrisMejuto/IrisMejuto/blob/main/Banner.gif" width="1000" height="300"/>
+  <img decoding="async" src="https://github.com/IrisMejuto/IrisMejuto/blob/main/Banner.gif" width="1000" />
   
 </div>
 
@@ -8,20 +23,6 @@
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=irismejuto" alt=""/>
   
-<p align="center">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/irismejutocrego/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-bottom: -4px;"/>
-  </a>
-  
-</p>
-
-
-  </div>
-  
-<img decoding="async" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hello,%20I'm%20Iris.%20Pleased%20to%20meet%20you!&width=1000&height=110&"/>
-
-</div>
 
 
  <div id="header" align="left">
