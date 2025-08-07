@@ -1,6 +1,6 @@
 # Iris Mejuto
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/IrisMejuto/IrisMejuto/blob/main/Banner.gif" width="1000" height="300"/>
+  <img decoding="async" src="" width="1000" height="300"/>
   
 </div>
 
