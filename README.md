@@ -167,9 +167,10 @@ I’m looking to join a dynamic team where I can continue learning, growing prof
 ## 👨‍🎓 Education & Qualifications
 
 | 📅 Date                | 👨‍🎓 Academic institution             | 🚀 Skills
-|  :---:  |  :---:   | :---:  | 
+|  :---:  |  :---:    | :---:  | 
+| MAR 2026 - Current  | Academia Postal                  | Web Application Development  |
 | SEP 2024 - SEP 2025 | KeepCoding                       | Full Stack Big Data, Machine Learning & AI |
-| MAY 2024 - Current  | Pildoras del Conocimiento        | Master in Strategic Complexity |
+| MAY 2024 - SEP 2024 | Pildoras del Conocimiento        | Master in Strategic Complexity |
 | APR 2024 - MAY 2024 | Udemy                            | Data Analysis and Business Intelligence |
 | DEC 2023 - MAR 2024 | Cambridge Spark                  | Analysis of data (Excel, Power BI, Python, SQL) |
 | OCT 2023 - DEC 2023 | NamasData                        | Power BI |
